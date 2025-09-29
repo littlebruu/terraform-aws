@@ -1,4 +1,4 @@
-<img src=".\images\ascii-art-text.png" align="center" width="100%">
+<img src=".\image\ascii-art-text.png" align="center" width="100%">
 
 ## Description
 This is a study project to learn and practice Infrastructure as Code (IaC) concepts using Terraform and AWS provider.
@@ -15,7 +15,7 @@ This is a study project to learn and practice Infrastructure as Code (IaC) conce
 - [ ] Work with variables and outputs
 - [ ] Configure multiple environments (dev/staging/prod)
 
-<img src=".\images\divisory.png" align="center" width="100%">
+<img src=".\image\divisory.png" align="center" width="100%">
 
 ## Project Architecture
 ``` 
